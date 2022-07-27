@@ -6,7 +6,7 @@ This package contains the source code which is associated with the following pap
 
 Yu Liu, Yu Shi, Fuhao Mu, Juan Cheng, Chang Li and Xun Chen, "Multimodal MRI Volumetric Data Fusion with Convolutional Neural Networks", IEEE Transactions on Instrumentation and Measurement, vol. 71, p. 4006015, 2022.
 
-Edited by Yu Liu.   
+Edited by Yu Shi and Yu Liu.   
 
 Usage of this code is free for research purposes only. 
 
